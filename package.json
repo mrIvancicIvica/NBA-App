@@ -1,0 +1,40 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "NBA",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "axios": "0.19.2",
+    "json-server": "^0.16.1",
+    "react": "16.13.1",
+    "react-cookies": "^0.1.1",
+    "react-dom": "16.13.1",
+    "react-modal": "^3.11.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.1",
+    "react-slick": "0.26.1",
+    "react-transition-group": "4.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "json:server": "json-server --watch db.json --port 3005"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
