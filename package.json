@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/lab": "^4.0.0-alpha.56",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "json-server": "^0.16.1",
     "react": "16.13.1",
     "react-cookies": "^0.1.1",
